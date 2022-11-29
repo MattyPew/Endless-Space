@@ -1,0 +1,56 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1112px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 235px;
+  height: 268px;
+  margin: 28px 198px 0 auto;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: ABeeZee;
+  margin: -185px auto 0 233px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin: 15px auto 60px 341px;
+  padding: 9px 42px 11px 41px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    height: 269px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 141px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 175px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    margin-right: 105px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 110px;
+  }
+}
